@@ -1,0 +1,16 @@
+#main {
+    border: 2px solid rgb(163, 14, 93);
+    display: flex;
+    justify-content:space-around ;
+}
+
+.content {
+    background-color: rosybrown;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 400px;
+}
+.custon {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

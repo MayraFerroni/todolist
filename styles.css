@@ -14,3 +14,18 @@
 .custon {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+#custon1 {
+    border: 40px solid red;
+    display: flex;
+    justify-content: space-around;
+}
+.estilo1 {
+    border: 200px solid teal;
+    background-color: seashell;
+    color: teal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    width: 100px;
+    
+}
